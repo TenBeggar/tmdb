@@ -1,0 +1,9 @@
+spring:
+  data:
+    elasticsearch:
+      client:
+        reactive:
+          endpoints:
+            - localhost:9200
+#          username: admin
+#          password: 123456
